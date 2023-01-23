@@ -1,6 +1,6 @@
 # Module 17 Practical Application. Comparing Classifers
 
-Please note : all the code is in prompt_III.ipynb . also notebook is exported to prompt_III.pdf. if any trouble in viewing please use PDF to view.
+### Please note : all the code is in prompt_III.ipynb . also notebook is exported to prompt_III.pdf. if any trouble in viewing please use PDF to view.
 
 
  In this practical application, the goal is to compare the performance of the classifiers, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and <br /> Support Vector Machines. A dataset related to marketing bank products over the telephone was used. <br />
